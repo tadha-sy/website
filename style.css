@@ -165,7 +165,7 @@ a {
 /* ── SKILLS SECTION ─────────────────────────── */
 .skills {
   padding: 96px 0;
-  background-color: #f8f9fa;
+  background-color: #86c1fc;
 }
 
 .section-title {
@@ -547,4 +547,5 @@ a {
   display: flex;
   justify-content: center;  
   align-items: center;      
+
 }
