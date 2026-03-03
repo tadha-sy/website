@@ -407,7 +407,7 @@ a {
 /* ── CONTACT SECTION ───────────────────────── */
 .contact {
   padding: 96px 0;
-  background-color: #f8f9fa;
+  background-color: #86c1fc;
 }
 
 .contact__wrapper {
@@ -460,7 +460,7 @@ a {
 
 /* ── FORM ───────────────────────── */
 .contact__form form {
-  background: #86c1fc;
+  background: #ffffff;
   padding: 32px;
   border-radius: 16px;
   box-shadow: 0 15px 40px rgba(0,0,0,0.08);
@@ -549,4 +549,5 @@ a {
   align-items: center;      
 
 }
+
 
